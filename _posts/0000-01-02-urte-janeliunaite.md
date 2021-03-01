@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Ask me no questions, and I’ll tell you no fibs."
 Use the left arrow to go back!
